@@ -17,8 +17,8 @@ class smtpEamil:
     邮件发送系统工具类
     """
     def __init__(self):
-        self.qqAccout = '2068962182@qq.com'  # 发送邮件邮箱账号
-        self.qqCode = 'wbuqricxhfezbdge'  # 授权码
+        self.qqAccout = '2*********@qq.com'  # 发送邮件邮箱账号
+        self.qqCode = '**********'  # 授权码
         self.smtp_server = 'smtp.qq.com'  #qq邮箱smtp服务器
         self.smtp_port = 465   #端口
 
