@@ -1,4 +1,4 @@
-# Yolo_fire-STPM_warnning
+# Yolo_fire-STPM_warnning 基于yolov5的火灾邮件预警程序
 
 安装anaconda创建Python 3.7.16的环境
 
