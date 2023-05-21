@@ -26,5 +26,5 @@ pip install smtplib
 详情请看：https://blog.csdn.net/Coin_Collecter/article/details/129596488
 
 成功获取授权码后
-
+修改 SMTP_warning/AlEmail.py 中第21 22行处qq邮箱和自己的授权码即可运行成功
 
