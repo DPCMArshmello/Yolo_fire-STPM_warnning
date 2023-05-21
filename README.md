@@ -21,3 +21,10 @@ python的smtplib提供了一种很方便的途径发送电子邮件。它对smtp
 
 pip install smtplib
 
+第一步：开启QQ邮箱的SMTP服务
+
+详情请看：https://blog.csdn.net/Coin_Collecter/article/details/129596488
+
+成功获取授权码后
+
+
